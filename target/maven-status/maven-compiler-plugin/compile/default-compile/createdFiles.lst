@@ -1,4 +1,7 @@
+WordCount.class
+WordCount$TokenizerMapper.class
 DeleteFile.class
 CopyFromLocal.class
 ListStatus.class
+WordCount$IntSumReducer.class
 FileSystemPrint.class
