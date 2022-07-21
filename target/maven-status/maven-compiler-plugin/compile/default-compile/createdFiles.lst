@@ -1,3 +1,4 @@
+SortWordCount$SortMapper.class
 WordCount.class
 GenericOptionsParserExample.class
 CopyFromLocal.class
@@ -8,6 +9,7 @@ FileSystemPrint.class
 WordCountWithCounter$TokenizerMapper.class
 WordCountWithCounter$Word.class
 WordCount$TokenizerMapper.class
+SortWordCount.class
 WordCountWithCounter$IntSumReducer.class
 DeleteFile.class
 ToolrunnerExample.class
