@@ -1,7 +1,13 @@
 WordCount.class
-WordCount$TokenizerMapper.class
-DeleteFile.class
+GenericOptionsParserExample.class
 CopyFromLocal.class
+WordCountWithCounter.class
 ListStatus.class
 WordCount$IntSumReducer.class
 FileSystemPrint.class
+WordCountWithCounter$TokenizerMapper.class
+WordCountWithCounter$Word.class
+WordCount$TokenizerMapper.class
+WordCountWithCounter$IntSumReducer.class
+DeleteFile.class
+ToolrunnerExample.class
